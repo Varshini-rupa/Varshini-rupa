@@ -24,9 +24,3 @@ Hi! I'm **Sanka Varshini**, a passionate learner in the fields of **C Programmin
 - **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile)
 - **GitHub:** [Your GitHub](https://github.com/varshini-rupa)
 
-## 🏆 Achievements
-- **Hackathon Winner**: 1st place at the AI for Good Hackathon
-- **Published Paper**: "AI in Autonomous Vehicles" - IEEE Journal
-
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mahitha123&show_icons=true&theme=tokyonight)
