@@ -2,7 +2,7 @@
 
 ## About Me
 
-Hi! I'm **Sanka Varshini**, a passionate learner in the fields of **C Programming**, **Java**, and **HTML**. I'm currently pursuing my **Intermediate** at **Dr. Zakir Hussain Junior College**.
+Hi! I'm **Sanka Varshini**, a passionate learner in the fields of **C Programming**, **Java**, and **HTML**. I'm currently pursuing my **B.Tech** at **Dhanekula Institute of Engineering and Technology**.
 
 ### 🎓 Education
 - **Dr. Zakir Hussain Junior College**  
@@ -16,21 +16,13 @@ Hi! I'm **Sanka Varshini**, a passionate learner in the fields of **C Programmin
 
 ## Projects 🚀
 
-### 1. **AI-Driven Drone for Railway Yards**
-   - **Description:** A drone-based system to inspect cargo containers using computer vision to identify damages and anomalies.
-   - **Technologies:** Python, OpenCV, TensorFlow
-   - [Link to Project](https://github.com/Mahitha123/AI-Drone-Project)
-
-### 2. **Student Assistance Chatbot**
-   - **Description:** A chatbot to help students with academic queries using *NLP* and *AI models*.
-   - **Technologies:** Python, Dialogflow, TensorFlow
-   - [Link to Project](https://github.com/Mahitha123/Student-Chatbot)
+### I am an Intern in Dronacharya Tech Hub
 
 ## 📬 Contact Me
 
 - **Email:** varshinisanka66@gmail.com
 - **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile)
-- **GitHub:** [Your GitHub](https://github.com/Mahitha123)
+- **GitHub:** [Your GitHub](https://github.com/varshini-rupa)
 
 ## 🏆 Achievements
 - **Hackathon Winner**: 1st place at the AI for Good Hackathon
