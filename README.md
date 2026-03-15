@@ -24,7 +24,7 @@ B.Tech CSE (AI & ML) pre-final year student at Dhanekula Institute of Engineerin
 
 ## Tools and technologies
 
-- Languages: Python (NumPy, Pandas, OpenCV), C (basic), SQL.  
+- Languages: Python (NumPy, Pandas, OpenCV), C ,JAVA, SQL.  
 - AI/ML: Classical ML concepts, computer vision with OpenCV, RAG-based application concepts.  
 - Quantum computing (intro): Qubits, quantum gates, superposition, QAOA, VQE, Grover’s Algorithm.  
 - Web: HTML, CSS, JavaScript, React  
