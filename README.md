@@ -27,7 +27,7 @@ B.Tech CSE (AI & ML) pre-final year student at Dhanekula Institute of Engineerin
 - Languages: Python (NumPy, Pandas, OpenCV), C (basic), SQL.  
 - AI/ML: Classical ML concepts, computer vision with OpenCV, RAG-based application concepts.  
 - Quantum computing (intro): Qubits, quantum gates, superposition, QAOA, VQE, Grover’s Algorithm.  
-- Web: HTML, CSS, JavaScript, React (for Lakshya-Maarg).  
+- Web: HTML, CSS, JavaScript, React  
 - Platforms & tools: Jupyter Notebook, VS Code, Firebase, Microsoft Excel, Google Sheets, Git, GitHub.
 
 ---
